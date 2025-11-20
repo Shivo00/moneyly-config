@@ -1,4 +1,5 @@
 {
   "latestVersion": "1.0.1",
-  "storeUrl": "https://play.google.com/store/apps/details?id=tech.nasher.moneyly"
+static const String _configUrl =
+    'https://raw.githubusercontent.com/Shivo00/moneyly-config/main/moneyly-config';
 }
